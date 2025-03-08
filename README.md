@@ -1,5 +1,8 @@
 # Grok3 游乐场
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1bf9409e-1f1a-4131-9dbd-0b0d10f21a89/deploy-status)](https://app.netlify.com/sites/andew/deploys)
+
+
 ### 作者：技术爬爬虾
 [B站](https://space.bilibili.com/316183842)，[Youtube](https://www.youtube.com/@Tech_Shrimp)，抖音，公众号 全网同名。转载请注明作者。
 
